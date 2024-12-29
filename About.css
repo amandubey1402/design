@@ -1,0 +1,21 @@
+.navigate ul li{
+    margin: 0px 30px;
+    
+}
+.navigate ul li a{
+    text-decoration: none;
+    font-weight:400;
+    color: black;
+    font-family: 'Avenir';
+}
+
+.card{
+    height: 380px ;
+    width: 280px;
+    display: flex;
+    align-items: end;
+}
+.card img{
+    /* object-fit: cover; */
+    /* aspect-ratio: 2/3; */
+}
